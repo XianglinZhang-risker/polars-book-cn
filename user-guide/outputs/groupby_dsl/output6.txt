@@ -1,0 +1,12 @@
+shape: (5, 4)
+┌───────┬──────────────────┬────────────────────┬────────────────────┐
+│ state ┆ youngest         ┆ oldest             ┆ alphabetical_first │
+│ ---   ┆ ---              ┆ ---                ┆ ---                │
+│ cat   ┆ str              ┆ str                ┆ str                │
+╞═══════╪══════════════════╪════════════════════╪════════════════════╡
+│ NJ    ┆ Jon Runyan       ┆ Lambert Cadwalader ┆ Aaron Kitchell     │
+│ AS    ┆ Eni Faleomavaega ┆ Fofó Sunia         ┆ Eni Faleomavaega   │
+│ LA    ┆ Vance McAllister ┆ Jean Destréhan     ┆ Adolph Meyer       │
+│ IA    ┆ Abby Finkenauer  ┆ Bernhart Henn      ┆ Abby Finkenauer    │
+│ VA    ┆ Scott Taylor     ┆ William Grayson    ┆ A. McEachin        │
+└───────┴──────────────────┴────────────────────┴────────────────────┘

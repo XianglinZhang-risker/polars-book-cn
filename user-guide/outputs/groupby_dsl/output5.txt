@@ -1,0 +1,12 @@
+shape: (5, 3)
+┌───────┬─────────────────────┬─────────────────┐
+│ state ┆ youngest            ┆ oldest          │
+│ ---   ┆ ---                 ┆ ---             │
+│ cat   ┆ str                 ┆ str             │
+╞═══════╪═════════════════════╪═════════════════╡
+│ AS    ┆ Eni Faleomavaega    ┆ Fofó Sunia      │
+│ VA    ┆ Scott Taylor        ┆ William Grayson │
+│ GU    ┆ Michael San Nicolas ┆ Antonio Won Pat │
+│ MN    ┆ Erik Paulsen        ┆ Cyrus Aldrich   │
+│ AZ    ┆ Ben Quayle          ┆ Coles Bashford  │
+└───────┴─────────────────────┴─────────────────┘
