@@ -74,7 +74,7 @@ print(out)
 
 ```python
 {{#include ../examples/expressions/expressions_examples_3.py:4:}}
-print(df)
+print(out)
 ```
 
 ```text
@@ -94,7 +94,7 @@ print(df)
 
 ```python
 {{#include ../examples/expressions/expressions_examples_4.py:4:}}
-print(df)
+print(out)
 ```
 
 ```text
